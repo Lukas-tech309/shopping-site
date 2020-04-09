@@ -3,31 +3,20 @@ back
                          #EBE5D9;
          border:
                          100%;}
-div
+#balken
          {background-color:
                          #0359AE;
          width:
                          100%;
          height:
                          100px;
-         position:absolute;
+         position:relativ;
          left:
                          0px;
          top:
                          227px;}
-div2
-         {background-color:
-                         #CC8A56;
-         width:
-                         300px;
-         height:
-                         500px;
-         position:absolute;
-         right:
-                         10px
-         top:
-                         300px;}
 
-.ueberschrift{
-    text-decoration: underline;
-}                         
+
+.zahl{
+    text-align: right;
+}
