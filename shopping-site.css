@@ -10,13 +10,13 @@ back
                          100%;
          height:
                          100px;
-         position:relativ;
+         position:absolute;
          left:
                          0px;
          top:
                          227px;}
 
 
-.zahl{
+{.zahl{
     text-align: right;
 }
