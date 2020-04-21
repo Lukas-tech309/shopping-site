@@ -1,4 +1,4 @@
-back
+#back
          {background-color:
                          #EBE5D9;
          border:
@@ -7,7 +7,7 @@ back
          {background-color:
                          #0359AE;
          width:
-                         100%;
+                         1500px;
          height:
                          100px;
          position:absolute;
@@ -15,8 +15,46 @@ back
                          0px;
          top:
                          227px;}
+#div
+         {background-color:
+                          #EBE5D9;
+         width:
+                         10%;
 
-
-{.zahl{
-    text-align: right;
-}
+         height:
+                         70%;
+         position:absolute;
+         left:
+                         0px;
+         top:
+                         326px;}
+#anschrift
+         {background-color:
+                         #424242;
+         width:
+                         1500px;
+         height:
+                         30%;
+         position:absolute;
+         left:
+                         0px;
+         top:
+                         690px;
+         color:
+                         #3D98F3;}
+#Sonderangebote
+         {background-color:
+                         #CC8A56;
+         width:
+                         1500px;
+         height:
+                         500px;
+         position:absolute;
+         top:
+                         0px;
+         right:
+                         0px;
+         bottom:
+                         1000px;
+         left:
+                         130px;}
