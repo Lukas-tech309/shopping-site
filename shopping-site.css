@@ -39,7 +39,7 @@
          left:
                          0px;
          top:
-                         690px;
+                         770px;
          color:
                          #3D98F3;}
 #Sonderangebote
@@ -48,7 +48,7 @@
          width:
                          1500px;
          height:
-                         500px;
+                         400px;
          position:absolute;
          top:
                          0px;
@@ -58,3 +58,19 @@
                          1000px;
          left:
                          130px;}
+#Bilder
+         {background-color:
+                         #EBE5D9;
+         width:
+                         2000px;
+         height:
+                         400px;
+         position;relative;
+         top:
+                         0px;
+         right:
+                         0px;
+         bottom:
+                         7000px;
+         left:
+                         0px;}
