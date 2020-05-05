@@ -3,4 +3,10 @@ body { background-color: #69D7F5;
         font-family: "SamsungOne",arial;
         text-align: center;
         line-height: 1.32;
+        font-size: 25px;
     }
+.bildblock { 
+            text-align: center;
+            margin-top: 2em;
+            margin-bottom: 2em;   
+            }    
