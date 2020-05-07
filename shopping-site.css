@@ -1,52 +1,61 @@
-#back
+body
          {background-color:
-                         #EBE5D9;
+                         #424242;
          border:
-                         100%;}
+                         100%;
+         color:
+                         #3D98F3;}
 #balken
          {background-color:
-                         #0359AE;
+                         #08088A;
          width:
-                         1500px;
+                         1350px;
          height:
                          100px;
          position:absolute;
          left:
                          0px;
          top:
-                         227px;}
+                         227px;
+         color:
+                         #FDFEFE;}
+h1
+         {font-size:
+                         80px;}
 #div
          {background-color:
-                          #EBE5D9;
+                         #EBE5D9;
          width:
-                         10%;
+                         200px;
 
          height:
-                         70%;
+                         445px;
          position:absolute;
          left:
                          0px;
          top:
-                         326px;}
+                         326px;
+         color:
+                         #040E11;}
 #anschrift
          {background-color:
                          #424242;
          width:
-                         1500px;
+                         1350px;
          height:
                          30%;
          position:absolute;
          left:
                          0px;
          top:
-                         770px;
+                         440px;
          color:
                          #3D98F3;}
 #Sonderangebote
          {background-color:
                          #CC8A56;
          width:
-                         1500px;
+                         1213px;
          height:
                          400px;
          position:absolute;
@@ -57,12 +66,14 @@
          bottom:
                          1000px;
          left:
-                         130px;}
+                         130px;
+         color:
+                         #040E11;}
 #Bilder
          {background-color:
                          #EBE5D9;
          width:
-                         2000px;
+                         1340px;
          height:
                          400px;
          position;relative;
@@ -70,7 +81,5 @@
                          0px;
          right:
                          0px;
-         bottom:
-                         7000px;
          left:
                          0px;}
