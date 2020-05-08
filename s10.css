@@ -1,12 +1,10 @@
 body { background-color: #424242;
         color: #3D98F3;
-        text-align: center;
         font-family: "SamsungOne",arial;
-        line-height: 1.32;
-        font-size: 25px;
-    }
-.bildblock { 
-            text-align: center;
-            margin-top: 2em;
-            margin-bottom: 2em;   
-            }    
+        text-align: center;        
+        line-height: 1.32;}
+
+.bildblock { text-align: center;
+     margin-top: 2em;
+    margin-bottom: 2em;
+}  }       
